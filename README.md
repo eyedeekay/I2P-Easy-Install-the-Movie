@@ -10,6 +10,8 @@ For privacy reasons, this video was created in a virtual machine. This VM
 has access to 2GB of RAM and 1 virtual CPU. On any realistic hardware
 within the past 15 or so years it will be noticably faster.
 
+The I2P Easy-Install bundle is still beta software.
+
  - 5 Seconds in: Installer starts
  - 35 Seconds in: Installer completes
  - 1 Minute 20 Seconds in: I2P router is configured and starts up
