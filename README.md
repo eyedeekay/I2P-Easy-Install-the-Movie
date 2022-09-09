@@ -22,7 +22,7 @@ within the past 15 or so years it will be noticably faster.
  - 4 Minutes and 12 Seconds in: [my homepage](http://idk.i2p) loads successfully
 
 
-<video>
+<video controls>
     <source src="easyinstall.webm" type="video/webm">
 </video>
 
