@@ -6,4 +6,6 @@ I2P Easy Install the Movie
 Watch Below
 -----------
 
-<embed type="video/webm" src="easyinstall.mkv" width="400" height="300"> 
+<video>
+    <source src="easyinstall.mkv" type="video/mp4">
+</video>
