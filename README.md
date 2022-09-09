@@ -29,3 +29,11 @@ The I2P Easy-Install bundle is still beta software.
 </video>
 
 ### [Get started with I2P by downloading the I2P easy-install bundle](https://geti2p.net/en/download/easyinstall)
+
+### [Discuss the bundle on the reddit thread](https://old.reddit.com/r/i2p/comments/xa828o/video_of_the_easyinstall_process_from_start_to/)
+
+#### [Contribute at i2pgit.org](https://i2pgit.org/i2p-hackers/i2p.firefox)
+
+#### [Contribute at git.idk.i2p](https://git.idk.i2p/i2p-hackers/i2p.firefox)
+
+#### [Contribute at github.com](https://github.com/i2p/i2p.firefox)
