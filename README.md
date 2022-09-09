@@ -18,7 +18,7 @@ The I2P Easy-Install bundle is still beta software.
  - 1 Minute 44 Seconds in: Browser Profile is configured, launch to router console
  - 2 Minutes and 8 Seconds in: Clients are started, tunnels being built
  - 2 Minutes and 8 Seconds to 3 Minutes and 8 seconds: Exploring the router console
- - 3 Minutes and 8 Seconds in: HTTP Proxy becomes ready
+ - 3 Minutes and 8 Seconds in: HTTP Proxy becomes ready, can now browse I2P
  - 3 Minutes and 21 Seconds in: [planet I2P](http://planet.i2p) loads successfully
  - 3 Minutes and 33 Seconds in: [I2P in Private Browsing](https://addons.mozilla.org/en-US/firefox/addon/i2p-in-private-browsing/) makes a cameo
  - 4 Minutes and 12 Seconds in: [my homepage](http://idk.i2p) loads successfully
