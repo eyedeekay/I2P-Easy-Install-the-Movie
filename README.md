@@ -34,6 +34,6 @@ The I2P Easy-Install bundle is still beta software.
 
 #### [Contribute at i2pgit.org](https://i2pgit.org/i2p-hackers/i2p.firefox)
 
-#### [Contribute at git.idk.i2p](https://git.idk.i2p/i2p-hackers/i2p.firefox)
+#### [Contribute at git.idk.i2p](http://git.idk.i2p/i2p-hackers/i2p.firefox)
 
 #### [Contribute at github.com](https://github.com/i2p/i2p.firefox)
