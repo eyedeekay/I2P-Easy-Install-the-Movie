@@ -7,5 +7,7 @@ Watch Below
 -----------
 
 <video>
-    <source src="easyinstall.mkv" type="video/mp4">
+    <source src="easyinstall.webm" type="video/mp4">
 </video>
+
+### [Get started with I2P by downloading the I2P easy-install bundle](https://geti2p.net/en/download/easyinstall)
