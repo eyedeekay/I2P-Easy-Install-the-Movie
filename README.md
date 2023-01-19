@@ -1,7 +1,8 @@
-I2P Easy Install the Movie
-==========================
+I2P Easy Install(For Windows) the Movie
+=======================================
 
-4 and a half minute video on how to install the I2P easy-install bundle:
+4 and a half minute video on how to install the I2P Easy-Install bundle.
+This video shows the **Windows** version of the Easy-Install bundle.
 
 Watch Below
 -----------
@@ -14,7 +15,7 @@ The I2P Easy-Install bundle is still beta software.
 
  - 5 Seconds in: Installer starts
  - 35 Seconds in: Installer completes
- - 1 Minute 20 Seconds in: I2P router is configured and starts up
+ - 1 Minute 23 Seconds in: I2P router is configured and starts up
  - 1 Minute 44 Seconds in: Browser Profile is configured, launch to router console
  - 2 Minutes and 8 Seconds in: Clients are started, tunnels being built
  - 2 Minutes and 8 Seconds to 3 Minutes and 8 seconds: Exploring the router console
@@ -27,6 +28,8 @@ The I2P Easy-Install bundle is still beta software.
 <video controls>
     <source src="easyinstall.webm" type="video/webm">
 </video>
+
+##### [mkv video](https://eyedeekay.github.io/Easy-Install-the-Movie/easyinstall.mkv)
 
 ### [Get started with I2P by downloading the I2P easy-install bundle](https://geti2p.net/en/download/easyinstall)
 
